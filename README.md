@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hey 👋, This is T-Bone
+[![Gmail Badge](https://img.shields.io/badge/-infinityonhigh9669@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infinityonhigh9669@gmail.com)](mailto:infinityonhigh9669@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-tbone-l-420419b4-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tbone-l-420419b4/)](https://www.linkedin.com/in/tbone-l-420419b4/) [![Github Badge](https://img.shields.io/badge/-infinityonhigh9669-grey?style=flat&logo=github&logoColor=white&link=https://github.com/infinityonhigh9669/)](https://www.github.com/infinityonhigh9669/) <p align='left'>Skilled System Engineer with 8+ years of hands-on experience supporting, automating, and optimizing mission critical deployments in cloud platforms, leveraging configuration management, CI/CD, and DevOps processes.
 
-<!--
-**infinityonhigh9669/infinityonhigh9669** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+At least over 8 years of experience in managing Linux based infrastructure, and hands-on experience in one script language.
+Possesses 5 year experience with most popular cloud platform like AWS, Azure, GCP and Aliyun, and good hands-on knowledge of Configuration Management and Deployment tool like Ansible, Terraform. Experience in developing Continuous Integration.
 
-Here are some ideas to get you started:
+Highly sense of responsibility, have good communication skills, diligent, team work spirit. And a quick learner and team player.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=infinityonhigh9669 alt=infinityonhigh9669 /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=infinityonhigh9669&show_icons=true&include_all_commits=true)](https://github.com/infinityonhigh9669/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=infinityonhigh9669&layout=compact)](https://github.com/infinityonhigh9669/github-readme-stats)
