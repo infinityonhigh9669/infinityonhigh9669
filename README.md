@@ -1,6 +1,5 @@
 ## Hey 👋, This is T-Bone
-[![Gmail Badge](https://img.shields.io/badge/-infinityonhigh9669@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infinityonhigh9669@gmail.com)](mailto:infinityonhigh9669@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-tbone-l-420419b4-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tbone-l-420419b4/)](https://www.linkedin.com/in/tbone-l-420419b4/) [![Github Badge](https://img.shields.io/badge/-infinityonhigh9669-grey?style=flat&logo=github&logoColor=white&link=https://github.com/infinityonhigh9669/)](https://www.github.com/infinityonhigh9669/) <p align='left'>Skilled System Engineer with 8+ years of hands-on experience supporting, automating, and optimizing mission critical deployments in cloud platforms, leveraging configuration management, CI/CD, and DevOps processes.
+<p align='left'>Skilled System Engineer with 8+ years of hands-on experience supporting, automating, and optimizing mission critical deployments in cloud platforms, leveraging configuration management, CI/CD, and DevOps processes.
 
 At least over 8 years of experience in managing Linux based infrastructure, and hands-on experience in one script language.
 Possesses 5 year experience with most popular cloud platform like AWS, Azure, GCP and Aliyun, and good hands-on knowledge of Configuration Management and Deployment tool like Ansible, Terraform. Experience in developing Continuous Integration.
